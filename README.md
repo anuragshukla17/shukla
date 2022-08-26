@@ -1,7 +1,7 @@
 # shukla
 <h1 align="center">Hi 👋, I'm Anurag Shukla</h1>
 
-  <img align="center" alt="coding" width="1200" height="400" src="https://user-images.githubusercontent.com/111640596/186889105-4a7bdc92-3dee-431b-b3b8-4a38875fcd30.png">
+  <img align="center" alt="coding" width="2000" height="400" src="https://user-images.githubusercontent.com/111640596/186889105-4a7bdc92-3dee-431b-b3b8-4a38875fcd30.png">
                          
 <h3 align="center">I'm a website creator. I used to say that when I was in school , I wanted to be involved in things that could change the world. I has been quoted as saying that he was influenced by my teachers.</h3>
 
